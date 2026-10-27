@@ -27,7 +27,7 @@ role        Backend & Full-Stack Developer
 education   B.Tech ECE '26, Sree Chaitanya College of Engineering
 location    Hyderabad, India
 focus       microservices, event-driven design, RAG and vector search
-practice    DSA in Java (200+ LeetCode), HLD / LLD, Docker-first debugging
+practice    DSA in Java, HLD / LLD, Debugging
 
 $ cat status.txt
 building    Projects
